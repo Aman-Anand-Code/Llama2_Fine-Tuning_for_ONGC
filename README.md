@@ -2,7 +2,6 @@
 
 # 🛢️ Fine-Tuning LLaMA 2 for Domain-Specific Knowledge Extraction in Oil and Gas
 
-![QLoRA Diagram](./images/qlora_architecture.png)
 > Winter Internship Project at **ONGC (Oil and Natural Gas Corporation)**  
 > **By:** Aman Anand | **KIIT University** | Roll No: 22052187
 
@@ -96,7 +95,7 @@ The dataset was custom-built using the *Oil and Gas Production Handbook*. It inc
 ## 🤝 Acknowledgements
 
 - **ONGC** for providing the opportunity and domain insights  
-- **KIIT University** for academic support  
+- **IIT Madrs || KIIT University ** for academic support  
 - **Hugging Face** community for open-source models and tools
 
 ---
