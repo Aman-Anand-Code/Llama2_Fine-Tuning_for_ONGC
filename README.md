@@ -95,7 +95,7 @@ The dataset was custom-built using the *Oil and Gas Production Handbook*. It inc
 ## 🤝 Acknowledgements
 
 - **ONGC** for providing the opportunity and domain insights  
-- **IIT Madrs || KIIT University ** for academic support  
+- **KIIT University** for academic support  
 - **Hugging Face** community for open-source models and tools
 
 ---
@@ -103,7 +103,7 @@ The dataset was custom-built using the *Oil and Gas Production Handbook*. It inc
 ## 📬 Contact
 
 **Aman Anand**  
-KIIT University  
+IIT Madrs || KIIT University  
 ✉️ Email: amananandsocial@gmail.com  
 
 
